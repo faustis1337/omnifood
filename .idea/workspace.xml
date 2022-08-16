@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9905f8dc-33f0-4026-b82d-be2b3c1a4fbc" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/app/app-screen-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/app/app-screen-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/app/app-screen-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/ben.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/customer-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/dave.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/hannah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/customers/steve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/eating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/gallery/gallery-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/business-insider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/forbes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/techcrunch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/the-new-york-times.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/logos/usa-today.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/meals/meal-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/meals/meal-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/omnifood-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DOJzBvTlqWvuDxSjUdlNuAoLcY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Faust\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Faust\Desktop\angular-projects\omnifood\css" />
+      <recent name="C:\Users\Faust\Desktop\angular-projects\omnifood" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (omnifood)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9905f8dc-33f0-4026-b82d-be2b3c1a4fbc" name="Changes" comment="" />
+      <created>1660564458216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660564458216</updated>
+      <workItem from="1660564459545" duration="1284000" />
+      <workItem from="1660630152427" duration="6757000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1660571155464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660571155464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
