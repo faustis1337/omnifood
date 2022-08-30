@@ -3,7 +3,7 @@ const h1 = document.querySelector(".heading-primary")
 h1.addEventListener("click", function () {
   const h1 = document.querySelector(".heading-primary");
   h1.style.backgroundColor = "red";
-  h1.textContent = "Faustas";
+  h1.textContent = "Ahh yeeeh";
   h1.style.padding = "5rem";
 });
 
@@ -22,6 +22,35 @@ btnNavEl.addEventListener("click",function(){
     headerEl.classList.toggle("nav-open");
 });
 
+
+////////////////////////////////////////
+// Smooth scrolling animation
+
+const allLinks = document.querySelectorAll('a:link');
+
+allLinks.forEach(function(link){
+link.addEventListener("click",function(e){
+e.preventDefault();
+const href = link.getAttribute('href');
+
+// Scroll back to top
+if(href === "#"){
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  })
+}
+//Scroll to other links
+if(href !== '#' && href.startsWith('#')){
+  const sectionEl = document.querySelector(href);
+  sectionEl.scrollIntoView({behavior: "smooth"})
+}
+//CLose mobile navigation
+if(link.classList.contains('main-nav-link')){
+  headerEl.classList.toggle("nav-open")
+}
+})
+})
 
 function checkFlexGap() {
   var flex = document.createElement("div");
